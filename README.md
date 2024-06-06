@@ -1,7 +1,7 @@
 # Object-size-measurement
 
 ## Dataset
-    I used cocodataset and did labeling using labelme.
+    I used cocodataset and created a custom dataset by labeling with labelme.
 
 ## Train
     Just the head. Here I freeze all backbone layers and train only randomly initialized layers (i.e. layers that do not use pre-trained weights from MS COCO). 
