@@ -1,5 +1,5 @@
 # Object-size-measurement
-    Using customdataset. We finetuned the mask rcnn to recognize the object and then measure its size.
+Using customdataset. We finetuned the mask rcnn to recognize the object and then measure its size.
 
 ## Dataset
     I used cocodataset and created a custom dataset by labeling with labelme.
