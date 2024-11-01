@@ -1,5 +1,5 @@
 # Object-size-measurement
-Use customdataset. I used mask rcnn to recognize and classify objects and measure their sizes.
+This project developed a system that utilizes the Mask R-CNN model to perform object detection and segmentation using a custom dataset. Images were collected under various conditions, and bounding boxes and segmentation masks were annotated before training the model. Finally, the system was implemented to enable size measurement during model testing.
 
 ## Dataset
     I used cocodataset and created a custom dataset by labeling with labelme.
