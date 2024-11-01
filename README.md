@@ -1,6 +1,9 @@
 # Object-size-measurement
 This project developed a system that utilizes the Mask R-CNN model to perform object detection and segmentation using a custom dataset. Images were collected under various conditions, and bounding boxes and segmentation masks were annotated before training the model. Finally, the system was implemented to enable size measurement during model testing.
 
+## Mask R-CNN Architecture
+![1](https://github.com/user-attachments/assets/c99f1899-7097-44e6-9e9c-6875570274b7)
+
 ## Dataset
 The COCO dataset was utilized, and a custom dataset was created by labeling with LabelMe.
 
