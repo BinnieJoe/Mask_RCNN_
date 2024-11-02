@@ -2,8 +2,10 @@
 This project developed a system that utilizes the Mask R-CNN model to perform object detection and segmentation using a custom dataset. Images were collected under various conditions, and bounding boxes and segmentation masks were annotated before training the model. Finally, the system was implemented to enable size measurement during model testing.
 
 ## Skills
-- **Pandas**: Increased readability by converting Excel files to CSV files, then effectively loaded the CSV files using Pandas and utilized NumPy to transform the data into an array format suitable for the model.
-- **TensorFlow, Seaborn, Scikit-Learn**: Created a multiple linear regression model to predict cabbage prices based on categorical variables using TensorFlow. Set up the cost function and optimization function, and performed model training by creating a TensorFlow session.
+- **Mask R-CNN**: Experience using and fine-tuning the Mask R-CNN model for object detection and segmentation tasks.
+- **OpenCV**: Ability to use the OpenCV library for image processing and object size measurement.
+- **Labelme**: Experience using the Labelme tool for object labeling.
+- **Image Preprocessing**: Experience in dataset preprocessing and augmentation for performance improvement.
 
 ## Mask R-CNN Architecture
 ![1](https://github.com/user-attachments/assets/c99f1899-7097-44e6-9e9c-6875570274b7)
